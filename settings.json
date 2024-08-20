@@ -23,5 +23,5 @@
   },
 
   "cSpell.language": "en,pt,pt_BR",
-  "cSpell.words": ["heroicons", "supabase", "Supabase"]
+  "cSpell.words": ["heroicons", "pinia", "supabase", "Supabase"]
 }
