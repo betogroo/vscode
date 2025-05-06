@@ -23,5 +23,5 @@
   },
 
   "cSpell.language": "en,pt,pt_BR",
-  "cSpell.words": ["composables", "heroicons", "pinia", "supabase", "Supabase"]
+  "cSpell.words": ["composables", "heroicons", "pinia", "supabase", "Supabase", "vuetify"]
 }
