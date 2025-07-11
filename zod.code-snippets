@@ -2,21 +2,13 @@
   "Zod Object Schema": {
     "scope": "javascript,typescript",
     "prefix": "zod-object",
-    "body": [
-      "export const $1Schema = z.object({",
-      "\t\t$2",
-      "})"
-    ],
+    "body": ["export const $1Schema = z.object({", "\t\t$2", "})"],
     "description": "Bootstrap the code needed for a Vue.js Pinia Options Store file",
   },
   "Zod Schema Initial Imports": {
     "scope": "javascript,typescript",
     "prefix": "zod-schema-initial-imports",
-    "body": [
-      "import { toTypedSchema } from '@vee-validate/zod'",
-      "import { z } from 'zod'"
-    ],
+    "body": ["import { toTypedSchema } from '@vee-validate/zod'", "import { z } from 'zod'"],
     "description": "Required zod imports to create new schema file",
   },
-
 }
